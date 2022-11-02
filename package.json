@@ -1,0 +1,22 @@
+{
+    "name": "live-nba",
+    "version": "1.0.0",
+    "description": "SwiftBar plugin displaying live NBA scores and stats from current games in the menu bar.",
+    "type": "module",
+    "main": "index.js",
+    "author": "Kevin",
+    "license": "MPL-2.0",
+    "keywords": [
+        "swiftbar",
+        "nba"
+    ],
+    "scripts": {},
+    "dependencies": {
+        "@sapphire/fetch": "^2.4.1",
+        "@sindresorhus/xbar": "^2.1.0"
+    },
+    "devDependencies": {
+        "@kevinzma/prettier-config": "^1.1.0"
+    },
+    "prettier": "@kevinzma/prettier-config"
+}
