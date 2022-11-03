@@ -7,7 +7,14 @@
 ### Clone Repository
 
 ```bash
-$ git clone https://github.com/KevinZMa/live-nba-scores.git
+$ git clone https://github.com/KevinZMa/live-nba-scores.git <target_directory>
+$ cd <target_directory>
+```
+
+### Install Dependencies
+
+```bash
+$ npm install
 ```
 
 ### Link script to plugins folder:
